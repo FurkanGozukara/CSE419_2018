@@ -1,0 +1,7 @@
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 4 - Perceptron\Lecture 4 - Perceptron\bin\Debug\Lecture 4 - Perceptron.exe.config
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 4 - Perceptron\Lecture 4 - Perceptron\bin\Debug\Lecture 4 - Perceptron.exe
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 4 - Perceptron\Lecture 4 - Perceptron\bin\Debug\Lecture 4 - Perceptron.pdb
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 4 - Perceptron\Lecture 4 - Perceptron\obj\Debug\Lecture 4 - Perceptron.csprojAssemblyReference.cache
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 4 - Perceptron\Lecture 4 - Perceptron\obj\Debug\Lecture 4 - Perceptron.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 4 - Perceptron\Lecture 4 - Perceptron\obj\Debug\Lecture 4 - Perceptron.exe
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 4 - Perceptron\Lecture 4 - Perceptron\obj\Debug\Lecture 4 - Perceptron.pdb
