@@ -10,6 +10,10 @@ namespace Lecture_4___Perceptron
     {
         static void Main(string[] args)
         {
+            //şeftali ve elma
+            // feature 1 : sertlik // normalizasyon sonucu -1 / 1 
+            // feature 2 : yoğunluk // normalizasyon sonucu -1 / 1 
+
             // Load sample input patterns.
             double[,] inputs = new double[,] {
                 { 0.72, 0.82 }, { 0.91, -0.69 }, { 0.46, 0.80 },
@@ -31,7 +35,7 @@ namespace Lecture_4___Perceptron
             Random r = new Random();
             double[] weights = { r.NextDouble(), r.NextDouble() };
             // Set learning rate.
-            double learningRate = 0.1;
+            double learningRate = 431;
             int iteration = 0;
             double globalError;
             do
