@@ -1,0 +1,47 @@
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\bin\Debug\Accord.dll.config
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\bin\Debug\Lecture 6.exe.config
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\bin\Debug\Lecture 6.exe
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\bin\Debug\Lecture 6.pdb
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\bin\Debug\Accord.Controls.dll
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\bin\Debug\Accord.dll
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\bin\Debug\Accord.MachineLearning.dll
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\bin\Debug\Accord.MachineLearning.GPL.dll
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\bin\Debug\Accord.Math.Core.dll
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\bin\Debug\Accord.Math.dll
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\bin\Debug\Accord.Statistics.dll
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\bin\Debug\ZedGraph.dll
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\bin\Debug\Accord.xml
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\bin\Debug\Accord.Controls.xml
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\bin\Debug\Accord.MachineLearning.GPL.xml
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\bin\Debug\Accord.Math.xml
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\bin\Debug\Accord.Math.Core.xml
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\bin\Debug\Accord.Statistics.xml
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\bin\Debug\ZedGraph.xml
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\obj\Debug\Lecture 6.csprojAssemblyReference.cache
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\obj\Debug\MainWindow.g.cs
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\obj\Debug\App.g.cs
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\obj\Debug\Lecture 6_Content.g.cs
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\obj\Debug\Lecture 6_MarkupCompile.cache
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\obj\Debug\Lecture 6_MarkupCompile.lref
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\obj\Debug\MainWindow.baml
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\obj\Debug\Lecture 6.g.resources
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\obj\Debug\Lecture_6.Properties.Resources.resources
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\obj\Debug\Lecture 6.csproj.GenerateResource.cache
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\obj\Debug\Lecture 6.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\obj\Debug\Lecture 6.csproj.CopyComplete
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\obj\Debug\Lecture 6.exe
+C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 6\Lecture 6\obj\Debug\Lecture 6.pdb
