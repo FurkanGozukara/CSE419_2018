@@ -62,3 +62,35 @@ C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Ex
 C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 9\Lecture 9\obj\Debug\Lecture 9.csproj.CopyComplete
 C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 9\Lecture 9\obj\Debug\Lecture 8.exe
 C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 9\Lecture 9\obj\Debug\Lecture 8.pdb
+C:\CSE419_2018\Example Projects Source Codes\Lecture 9\Lecture 9\bin\Debug\Accord.dll.config
+C:\CSE419_2018\Example Projects Source Codes\Lecture 9\Lecture 9\bin\Debug\Lecture 8.exe.config
+C:\CSE419_2018\Example Projects Source Codes\Lecture 9\Lecture 9\bin\Debug\Lecture 8.exe
+C:\CSE419_2018\Example Projects Source Codes\Lecture 9\Lecture 9\bin\Debug\Lecture 8.pdb
+C:\CSE419_2018\Example Projects Source Codes\Lecture 9\Lecture 9\bin\Debug\Accord.dll
+C:\CSE419_2018\Example Projects Source Codes\Lecture 9\Lecture 9\bin\Debug\Accord.Extensions.Core.dll
+C:\CSE419_2018\Example Projects Source Codes\Lecture 9\Lecture 9\bin\Debug\Accord.MachineLearning.dll
+C:\CSE419_2018\Example Projects Source Codes\Lecture 9\Lecture 9\bin\Debug\Accord.MachineLearning.GPL.dll
+C:\CSE419_2018\Example Projects Source Codes\Lecture 9\Lecture 9\bin\Debug\Accord.Math.Core.dll
+C:\CSE419_2018\Example Projects Source Codes\Lecture 9\Lecture 9\bin\Debug\Accord.Math.dll
+C:\CSE419_2018\Example Projects Source Codes\Lecture 9\Lecture 9\bin\Debug\Accord.Statistics.dll
+C:\CSE419_2018\Example Projects Source Codes\Lecture 9\Lecture 9\bin\Debug\Accord.xml
+C:\CSE419_2018\Example Projects Source Codes\Lecture 9\Lecture 9\bin\Debug\Accord.Extensions.Core.xml
+C:\CSE419_2018\Example Projects Source Codes\Lecture 9\Lecture 9\bin\Debug\Accord.MachineLearning.xml
+C:\CSE419_2018\Example Projects Source Codes\Lecture 9\Lecture 9\bin\Debug\Accord.MachineLearning.GPL.xml
+C:\CSE419_2018\Example Projects Source Codes\Lecture 9\Lecture 9\bin\Debug\Accord.Math.xml
+C:\CSE419_2018\Example Projects Source Codes\Lecture 9\Lecture 9\bin\Debug\Accord.Math.Core.xml
+C:\CSE419_2018\Example Projects Source Codes\Lecture 9\Lecture 9\bin\Debug\Accord.Statistics.xml
+C:\CSE419_2018\Example Projects Source Codes\Lecture 9\Lecture 9\obj\Debug\Lecture 9.csprojAssemblyReference.cache
+C:\CSE419_2018\Example Projects Source Codes\Lecture 9\Lecture 9\obj\Debug\MainWindow.g.cs
+C:\CSE419_2018\Example Projects Source Codes\Lecture 9\Lecture 9\obj\Debug\App.g.cs
+C:\CSE419_2018\Example Projects Source Codes\Lecture 9\Lecture 9\obj\Debug\Lecture 8_Content.g.cs
+C:\CSE419_2018\Example Projects Source Codes\Lecture 9\Lecture 9\obj\Debug\Lecture 8_MarkupCompile.cache
+C:\CSE419_2018\Example Projects Source Codes\Lecture 9\Lecture 9\obj\Debug\Lecture 8_MarkupCompile.lref
+C:\CSE419_2018\Example Projects Source Codes\Lecture 9\Lecture 9\obj\Debug\MainWindow.baml
+C:\CSE419_2018\Example Projects Source Codes\Lecture 9\Lecture 9\obj\Debug\Lecture 8.g.resources
+C:\CSE419_2018\Example Projects Source Codes\Lecture 9\Lecture 9\obj\Debug\Lecture_8.Properties.Resources.resources
+C:\CSE419_2018\Example Projects Source Codes\Lecture 9\Lecture 9\obj\Debug\Lecture 9.csproj.GenerateResource.cache
+C:\CSE419_2018\Example Projects Source Codes\Lecture 9\Lecture 9\obj\Debug\Lecture 9.csproj.CoreCompileInputs.cache
+C:\CSE419_2018\Example Projects Source Codes\Lecture 9\Lecture 9\obj\Debug\Lecture 9.csproj.CopyComplete
+C:\CSE419_2018\Example Projects Source Codes\Lecture 9\Lecture 9\obj\Debug\Lecture 8.exe
+C:\CSE419_2018\Example Projects Source Codes\Lecture 9\Lecture 9\obj\Debug\Lecture 8.pdb

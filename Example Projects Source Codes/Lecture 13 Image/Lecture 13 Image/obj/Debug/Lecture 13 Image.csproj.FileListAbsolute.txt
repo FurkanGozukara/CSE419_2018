@@ -47,3 +47,52 @@ C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Ex
 C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\obj\Debug\Lecture 13 Image.csproj.CopyComplete
 C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\obj\Debug\Lecture 13 Image.exe
 C:\Users\Furkan Gözükara\Desktop\artificial int and machine learning course\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\obj\Debug\Lecture 13 Image.pdb
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\bin\Debug\Accord.dll.config
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\bin\Debug\Lecture 13 Image.exe.config
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\bin\Debug\Lecture 13 Image.exe
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\bin\Debug\Lecture 13 Image.pdb
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\bin\Debug\Accord.dll
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\bin\Debug\Accord.Extensions.Core.dll
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\bin\Debug\Accord.Extensions.Imaging.AForgeInterop.dll
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\bin\Debug\Accord.Extensions.Imaging.Algorithms.dll
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\bin\Debug\Accord.Extensions.Math.dll
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\bin\Debug\Accord.Imaging.dll
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\bin\Debug\Accord.MachineLearning.dll
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\bin\Debug\Accord.MachineLearning.GPL.dll
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\bin\Debug\Accord.Math.Core.dll
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\bin\Debug\Accord.Math.dll
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\bin\Debug\Accord.Statistics.dll
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\bin\Debug\Accord.Video.dll
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\bin\Debug\Accord.Vision.dll
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\bin\Debug\DotImaging.BitmapInterop.dll
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\bin\Debug\DotImaging.GenericImage.dll
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\bin\Debug\DotImaging.Primitives2D.dll
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\bin\Debug\Accord.xml
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\bin\Debug\Accord.Extensions.Core.xml
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\bin\Debug\Accord.Extensions.Imaging.AForgeInterop.xml
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\bin\Debug\Accord.Extensions.Imaging.Algorithms.xml
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\bin\Debug\Accord.Extensions.Math.xml
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\bin\Debug\Accord.Imaging.xml
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\bin\Debug\Accord.MachineLearning.xml
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\bin\Debug\Accord.MachineLearning.GPL.xml
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\bin\Debug\Accord.Math.xml
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\bin\Debug\Accord.Math.Core.xml
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\bin\Debug\Accord.Statistics.xml
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\bin\Debug\Accord.Video.xml
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\bin\Debug\Accord.Vision.xml
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\bin\Debug\DotImaging.BitmapInterop.xml
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\bin\Debug\DotImaging.GenericImage.xml
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\obj\Debug\Lecture 13 Image.csprojAssemblyReference.cache
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\obj\Debug\MainWindow.g.cs
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\obj\Debug\App.g.cs
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\obj\Debug\Lecture 13 Image_Content.g.cs
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\obj\Debug\Lecture 13 Image_MarkupCompile.cache
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\obj\Debug\Lecture 13 Image_MarkupCompile.lref
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\obj\Debug\MainWindow.baml
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\obj\Debug\Lecture 13 Image.g.resources
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\obj\Debug\Lecture_13_Image.Properties.Resources.resources
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\obj\Debug\Lecture 13 Image.csproj.GenerateResource.cache
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\obj\Debug\Lecture 13 Image.csproj.CoreCompileInputs.cache
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\obj\Debug\Lecture 13 Image.csproj.CopyComplete
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\obj\Debug\Lecture 13 Image.exe
+C:\CSE419_2018\Example Projects Source Codes\Lecture 13 Image\Lecture 13 Image\obj\Debug\Lecture 13 Image.pdb

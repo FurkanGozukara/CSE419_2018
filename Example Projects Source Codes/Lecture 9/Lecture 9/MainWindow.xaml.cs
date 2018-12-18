@@ -1,4 +1,7 @@
 ﻿using Accord.MachineLearning;
+using Accord.MachineLearning.VectorMachines.Learning;
+using Accord.Math.Optimization.Losses;
+using Accord.Statistics.Kernels;
 using Accord.Statistics.Models.Regression;
 using Accord.Statistics.Models.Regression.Fitting;
 using System;
@@ -65,10 +68,30 @@ namespace Lecture_8
                 lstDocumentsScores.Add(codebook.Transform(words[i]));
             }
 
+            var teacher = new MulticlassSupportVectorLearning<Linear>()
+            {
+                // using LIBLINEAR's L2-loss SVC dual for each SVM
+                Learner = (p) => new LinearDualCoordinateDescent()
+                {
+                    Loss = Loss.L2
+                }
+            };
+
+            double[][] features = Bow.Transform(words);
+
+            teacher.ParallelOptions.MaxDegreeOfParallelism = 1; // (Remove, comment, or change this line to enable full parallelism)
+
+            // Learn a machine
+            var machine = teacher.Learn(features, new int[] {0,0,1,1,0,0 });
+
+            int[] predicted = machine.Decide(features);
+
+            double error = new ZeroOneLoss(new int[] { 0, 0, 1, 1, 0, 0 }).Loss(predicted);
+
             // Extract a feature vector from the text 2:
             //example
             // double[] bow2 = codebook.Transform(words[1]);
-       
+
             var indexSerachedTerm = Bow.StringToCode["Ottomans".ToLower()];
 
             double dblMaxScore = double.MinValue;
